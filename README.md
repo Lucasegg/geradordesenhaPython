@@ -1,6 +1,10 @@
-# ### geradordesenhaPython
+# ### Gerador_de_senha_em_Python
 
 # Utilizando Python e bibliotecas:
+
+### Aqui eu usei somente Python para gerar este código
+
+#### Foi um aprendizado enorme,  fiquei muito contente de conseguir fazer algo assim.
 
 - Random e String;
 - tratamento de erros com try e except , caso digitado um valor inválido;
@@ -8,5 +12,9 @@
 - Linguagem que vou me aprofundar e me especializar;
 
 
+#### Abaixo fazendo minha promoção, claro.
 
-Linkedin: https://www.linkedin.com/in/lucas-gomes-da-silva-1407/
+[Perfil Linkedin](https://www.linkedin.com/in/lucas-gomes-da-silva-1407/)
+
+
+
